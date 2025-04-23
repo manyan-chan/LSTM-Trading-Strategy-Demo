@@ -2,6 +2,8 @@
 
 A simple web application built with Python and Streamlit to demonstrate a basic trading strategy using Long Short-Term Memory (LSTM) networks for stock price prediction.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 *   Select a stock ticker symbol (e.g., AAPL, GOOG).
